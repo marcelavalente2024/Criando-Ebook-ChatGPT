@@ -1,5 +1,5 @@
 # Beach Tennis: O Esporte da Endorfina  
-![Capa do eBook](capa.png)
+<img src="capa.png" alt="Capa do eBook" height="600">
 
 Este repositório contém o eBook **"Beach Tennis: O Esporte da Endorfina"**, abordando as regras, benefícios e tudo sobre o esporte da moda, além dos prompts utilizados para criar o conteúdo e as imagens.
 
